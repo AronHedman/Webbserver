@@ -36,8 +36,8 @@
          <input type="text" name="q2" placeholder="Svar">
          <br>
          <p>Är du en robot?</p>
-         <input type="checkbox" name="q3" value="q3p"> Ja
-         <input type="checkbox" name="q3" value="q3n"> Nej
+         <input type="checkbox" name="q3" value="Ja"> Ja
+         <input type="checkbox" name="q3" value="Nej"> Nej
          <br>
          <p>Hur många hjul har en bil?</p>
          <input type="number" name="q4" placeholder="Svar">
