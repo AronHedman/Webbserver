@@ -1,6 +1,6 @@
 .DS_Store
 
-node_modules/*
+**/node_modules
 
 db/*
 !db/.gitkeep
@@ -12,3 +12,4 @@ nginx/*
 !php
 php/*
 !php/php.ini
+.env
